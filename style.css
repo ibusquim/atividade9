@@ -1,34 +1,40 @@
 #intro{ 
+    font-size: 20px; 
     background-color: #00ffff; 
     color: #1515bc;
     text-align: center;
 }
 
 #intro2{
+    font-size: 20px; 
     background-color: #ff5e00; 
     color: #ff0000;
     text-align: center;
 }
 
 #funciona{
+    font-size: 20px; 
     background-color: #84ff00; 
     color: #0e4f1e;
     text-align: center;
 }
 
 #layout{
+    font-size: 20px; 
     background-color: #ccff00; 
     color: #511313;
     text-align: center;
 }
 
 #conclusao{
+    font-size: 20px; 
     background-color: #e045ce; 
     color: #301628;
     text-align: center;
 }
 
 #conclusao2{
+    font-size: 20px; 
     background-color: #5c5d60; 
     color: #000001;
     text-align: center;
