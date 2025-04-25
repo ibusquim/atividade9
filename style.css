@@ -1,11 +1,35 @@
 #intro{ 
-    background-color: #00FFFF; 
-    color: #000001;
+    background-color: #00ffff; 
+    color: #1515bc;
     text-align: center;
 }
 
 #intro2{
-    background-color: #00FFFF; 
+    background-color: #ff5e00; 
+    color: #ff0000;
+    text-align: center;
+}
+
+#funciona{
+    background-color: #84ff00; 
+    color: #0e4f1e;
+    text-align: center;
+}
+
+#layout{
+    background-color: #ccff00; 
+    color: #511313;
+    text-align: center;
+}
+
+#conclusao{
+    background-color: #e045ce; 
+    color: #301628;
+    text-align: center;
+}
+
+#conclusao2{
+    background-color: #5c5d60; 
     color: #000001;
     text-align: center;
 }
